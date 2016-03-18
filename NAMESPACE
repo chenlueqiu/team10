@@ -1,3 +1,0 @@
-useDynLib(team10stats799)
-exportPattern("^[[:alpha:]]+")
-importFrom(Rcpp, evalCpp)
